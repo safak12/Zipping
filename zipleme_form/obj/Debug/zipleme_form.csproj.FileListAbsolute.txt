@@ -1,0 +1,100 @@
+D:\c#\zipleme_form\zipleme_form\bin\Debug\zipleme_form.exe.config
+D:\c#\zipleme_form\zipleme_form\bin\Debug\zipleme_form.exe
+D:\c#\zipleme_form\zipleme_form\bin\Debug\zipleme_form.pdb
+D:\c#\zipleme_form\zipleme_form\obj\Debug\zipleme_form.csprojAssemblyReference.cache
+D:\c#\zipleme_form\zipleme_form\obj\Debug\zipleme_form.Form1.resources
+D:\c#\zipleme_form\zipleme_form\obj\Debug\zipleme_form.Properties.Resources.resources
+D:\c#\zipleme_form\zipleme_form\obj\Debug\zipleme_form.csproj.GenerateResource.cache
+D:\c#\zipleme_form\zipleme_form\obj\Debug\zipleme_form.csproj.CoreCompileInputs.cache
+D:\c#\zipleme_form\zipleme_form\obj\Debug\zipleme_form.exe
+D:\c#\zipleme_form\zipleme_form\obj\Debug\zipleme_form.pdb
+D:\c#\zipleme_form\zipleme_form\obj\Debug\zipleme_form.Form2.resources
+D:\c#\zipleme_form\zipleme_form\obj\Debug\zipleme_form.Form3.resources
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Newtonsoft.Json.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Newtonsoft.Json.xml
+D:\c#\zipleme_form\zipleme_form\obj\Debug\zipleme_form.Form4.resources
+D:\c#\zipleme_form\zipleme_form\obj\Debug\zipleme_form.csproj.CopyComplete
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.Buffers.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.Memory.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.Numerics.Vectors.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.Text.Encodings.Web.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.Text.Json.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.ValueTuple.dll
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.Buffers.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.Memory.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.Numerics.Vectors.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.Text.Encodings.Web.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.Text.Json.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\c#\zipleme_form\zipleme_form\bin\Debug\System.ValueTuple.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\zipleme_form.exe.config
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\zipleme_form.exe
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\zipleme_form.pdb
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Newtonsoft.Json.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.Buffers.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.Memory.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.Numerics.Vectors.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.Text.Encodings.Web.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.Text.Json.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.ValueTuple.dll
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\Newtonsoft.Json.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.Buffers.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.Memory.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.Numerics.Vectors.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.Text.Encodings.Web.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.Text.Json.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\bin\Debug\System.ValueTuple.xml
+D:\c#\zipleme_form - Kopya\zipleme_form\obj\Debug\zipleme_form.csprojAssemblyReference.cache
+D:\c#\zipleme_form - Kopya\zipleme_form\obj\Debug\zipleme_form.Form1.resources
+D:\c#\zipleme_form - Kopya\zipleme_form\obj\Debug\zipleme_form.Form2.resources
+D:\c#\zipleme_form - Kopya\zipleme_form\obj\Debug\zipleme_form.Form3.resources
+D:\c#\zipleme_form - Kopya\zipleme_form\obj\Debug\zipleme_form.Form4.resources
+D:\c#\zipleme_form - Kopya\zipleme_form\obj\Debug\zipleme_form.Properties.Resources.resources
+D:\c#\zipleme_form - Kopya\zipleme_form\obj\Debug\zipleme_form.csproj.GenerateResource.cache
+D:\c#\zipleme_form - Kopya\zipleme_form\obj\Debug\zipleme_form.csproj.CoreCompileInputs.cache
+D:\c#\zipleme_form - Kopya\zipleme_form\obj\Debug\zipleme_form.csproj.CopyComplete
+D:\c#\zipleme_form - Kopya\zipleme_form\obj\Debug\zipleme_form.exe
+D:\c#\zipleme_form - Kopya\zipleme_form\obj\Debug\zipleme_form.pdb
